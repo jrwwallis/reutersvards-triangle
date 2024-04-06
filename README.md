@@ -1,5 +1,7 @@
 # A couple of Reutersvärd's Triangles, rendered as ASCII art.
 
+[Oscar Reutersvärd](https://en.wikipedia.org/wiki/Oscar_Reutersv%C3%A4rd)
+
 ```
            ____
           /\   \
