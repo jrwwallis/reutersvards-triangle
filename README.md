@@ -1,4 +1,4 @@
-# A couple of Reutersvärd's Triangle's, rendered as ASCII art.
+# A couple of Reutersvärd's Triangles, rendered as ASCII art.
 
 ```
            ____
